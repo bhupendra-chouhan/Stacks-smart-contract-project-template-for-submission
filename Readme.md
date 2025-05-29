@@ -38,3 +38,7 @@ The vision behind this project is to **demonstrate the capabilities of decentral
 * 👾 **Game Modes:** Introduce more game types (e.g., 4x4 boards, tournament brackets).
 * 🧪 **Unit Testing & Auditing:** Add test coverage and run audits for security and consistency.
 * 🌍 **Multiplayer Lobby System:** Allow multiple games and players to interact via a smart contract lobby mechanism.
+
+## Contract Details
+Deployed contract address: STQTXZ1YN814VAS3MPKE477ASQ53A3E6NRDP69XS.tic-tac-toe
+![image](https://github.com/user-attachments/assets/6bd9729c-c362-4c08-967c-f914dd00509d)
